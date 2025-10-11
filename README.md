@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Backend Developer
 ------------------------
 
-I worked at a biopharmaceutical plant as an analytical chemist and decided to completely change my field of activity, giving preference to what I liked. I started learning on my own, then continued to improve my skills through courses on the Hexlet platform. At the moment I have experience creating small projects. I continue to develop and strive to get a job where I can use the knowledge I have acquired.
+I worked as an analytical chemist at a biopharmaceutical plant and decided to completely change careers, pursuing something I enjoy. At first, I studied on my own, then continued to hone my skills through courses. Now I have experience creating small projects. I continue to develop and strive to find a job where I can apply my newfound knowledge.
 
 ### Skills
 
